@@ -8,7 +8,7 @@ OutputBaseFilename=YAVIS-Setup
 Compression=lzma2
 SolidCompression=yes
 PrivilegesRequired=lowest
-ArchitecturesInstallMode=x64compatible
+ArchitecturesInstallIn64BitMode=x64compatible
 
 [Languages]
 Name: "german"; MessagesFile: "compiler:Languages\German.isl"
